@@ -16,7 +16,7 @@
 
 - Progress-report: báo cáo tiến độ
 
-- SRC: chứa toàn bộ soucre code, database của website: Classes, Bin, Obj, Controllers, Data, Models, Properties, Views, wwwroot, appsettings.json, QLSanBong_LeDangHung.csproj, Program.cs, QLSanBong_LeDangHung.bak
+- SRC: chứa toàn bộ soucre code, database của website: Classes, Bin, Obj, Controllers, Data, Models, Properties, Views, wwwroot, appsettings.json, QLSanBong_LeDangHung.csproj, Program.cs
 
   + Trong đó  Bin, Obj :thư mục build chạy thử từ lúc tạo project
 
@@ -42,7 +42,7 @@
 
    2. Lấy mã nguồn
 
-    - Git clone website QLSanBongDaMini từ :  về máy.
+    - Git clone website QLSanBongDaMini từ : https://github.com/Hung1812/ASPNET-DK24TTC4-LEDANGHUNG-WEB.git về máy.
 
     - Mở Visual Studio: Open → ASPNET-DK24TTC4-LeDangHung-QLSanBongDaMini/SRC/QLSanBong_LeDangHung.csproj
 
