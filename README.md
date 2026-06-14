@@ -111,9 +111,6 @@
       b. Chọn http , https ,  **IIS Express** → **Run**
 
       c. Trình duyệt tự mở `http://localhost:xxxxx` (ví dụ `http://localhost:5196` , http://localhost:7288 , http://localhost:44378)
-      
-      d. User quản trị : admin, mật khẩu : 123456
-
     - Cách 2 — **Kestrel** (không cần VS)
 
      ```bash
