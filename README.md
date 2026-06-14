@@ -14,8 +14,6 @@
 
 ## Cấu trúc thư mục
 
-- Progress-report: báo cáo tiến độ
-
 - SRC: chứa toàn bộ soucre code, database của website: Classes, Bin, Obj, Controllers, Data, Models, Properties, Views, wwwroot, appsettings.json, QLSanBong_LeDangHung.csproj, Program.cs
 
   + Trong đó  Bin, Obj :thư mục build chạy thử từ lúc tạo project
@@ -202,7 +200,6 @@ Pop-Location
 * **Đã cài SSMS nhưng không kết nối được?** → Cần **cài SQL Server** (SSMS chỉ là công cụ quản trị).
 * **`dotnet ef` không chạy?** → Cài công cụ: `dotnet tool install -g dotnet-ef`.
 * **`Update-Database` lỗi chứng chỉ** → Thêm `TrustServerCertificate=True` vào chuỗi kết nối.
-* **Không thấy DB sau khi Restore .bak** → Kiểm tra *Database name* khớp với connection string.
 
 ---
 
